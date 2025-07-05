@@ -1,0 +1,24 @@
+{
+  "fornecedores": [
+    {
+      "id": "9020",
+      "nome": "josemo",
+      "email": "josemo@gmail.com",
+      "cnpj": "000000000001",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "58015320",
+        "logradouro": "Avenida Alberto de Brito",
+        "numero": "618",
+        "complemento": "201",
+        "bairro": "Jaguaribe",
+        "cidade": "João Pessoa",
+        "estado": "Paraíba",
+        "pais": "Brasil"
+      },
+      "cpnj": "000000000001"
+    }
+  ],
+  "produtos": [],
+  "clientes": []
+}
