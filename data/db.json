@@ -1,11 +1,11 @@
 {
   "fornecedores": [
     {
-      "id": "9020",
-      "nome": "josemo",
+      "id": "9021",
+      "nome": "josemo Correia Martins Júnior",
       "email": "josemo@gmail.com",
       "cnpj": "000000000001",
-      "tipoFornecedor": "COMUM",
+      "tipoFornecedor": "PREMIUM",
       "endereco": {
         "cep": "58015320",
         "logradouro": "Avenida Alberto de Brito",
